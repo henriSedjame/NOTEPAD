@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">NOTEPAD</string>
+    <string name="save_icon">save_item</string>
+</resources>
